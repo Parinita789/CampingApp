@@ -1,0 +1,17 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+body{
+	/*background: url(https://cdn.pixabay.com/photo/2016/11/29/04/17/bonfire-1867275_960_720.jpg);*/
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato';
+}
